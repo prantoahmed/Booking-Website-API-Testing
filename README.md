@@ -1,5 +1,5 @@
 
-# Booking Website AP
+# Booking Website API
 
 This document explains how to run a API test with Postman.
 

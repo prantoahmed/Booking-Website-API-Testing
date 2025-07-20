@@ -3,6 +3,9 @@
 
 This document explains how to run a API test with Postman.
 
+#Documentation
+https://documenter.getpostman.com/view/26883317/2sB34kEJtm
+
 # Summery
 I have complated a API test Booking webste.
 
